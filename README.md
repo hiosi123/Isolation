@@ -1,7 +1,8 @@
 # Isolation
 # Build a Game-playing Agent
 
-![Example game of isolation](viz.gif)
+![image](https://user-images.githubusercontent.com/38133842/144423851-47822d51-0bbe-466b-919b-3cabf864fe06.png)
+
 
 ## Synopsis
 
